@@ -1,7 +1,7 @@
 # swift_commonUtils
 swfit常用
 
-```objc
+```swift
 
 import UIKit
 
